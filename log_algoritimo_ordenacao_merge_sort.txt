@@ -1,0 +1,81 @@
+=====================================================
+Merge Sort
+Vetor(10000) em ordem crescente criado!
+Vetor(10000) em ordem decrescente criado!
+
+Crescente(10000):
+Resultado Merge Sort:
+Vetor Ordenado!
+Tempo de execução: 39ms
+
+Decrescente(10000):
+Resultado Merge Sort:
+Vetor Ordenado!
+Tempo de execução: 39ms
+=====================================================
+
+=====================================================
+Merge Sort
+Vetor(100000) em ordem crescente criado!
+Vetor(100000) em ordem decrescente criado!
+
+Crescente(100000):
+Resultado Merge Sort:
+Vetor Ordenado!
+Tempo de execução: 479ms
+
+Decrescente(100000):
+Resultado Merge Sort:
+Vetor Ordenado!
+Tempo de execução: 480ms
+=====================================================
+
+=====================================================
+Merge Sort
+Vetor(1000000) em ordem crescente criado!
+Vetor(1000000) em ordem decrescente criado!
+
+Crescente(1000000):
+Resultado Merge Sort:
+Vetor Ordenado!
+Tempo de execução: 5736ms
+
+Decrescente(1000000):
+Resultado Merge Sort:
+Vetor Ordenado!
+Tempo de execução: 5761ms
+=====================================================
+
+=====================================================
+Merge Sort
+Vetor(10000000) em ordem crescente criado!
+Vetor(10000000) em ordem decrescente criado!
+
+Crescente(10000000):
+Resultado Merge Sort:
+Vetor Ordenado!
+Tempo de execução: 65888ms
+
+Decrescente(10000000):
+Resultado Merge Sort:
+Vetor Ordenado!
+Tempo de execução: 66664ms
+=====================================================
+
+=====================================================
+Merge Sort
+Vetor(100000000) em ordem crescente criado!
+Vetor(100000000) em ordem decrescente criado!
+
+Crescente(100000000):
+Resultado Merge Sort:
+Vetor Ordenado!
+Tempo de execução: 722383ms
+
+Decrescente(100000000):
+Resultado Merge Sort:
+Vetor Ordenado!
+Tempo de execução: 729844ms
+=====================================================
+
+

@@ -1,0 +1,72 @@
+=====================================================
+Bubble Sort
+Vetor(10000) em ordem crescente criado!
+Vetor(10000) em ordem decrescente criado!
+
+Crescente(10000):
+Resultado Bubble Sort:
+Vetor Ordenado!
+Tempo de execução: 1ms
+
+Decrescente(10000):
+Resultado Bubble Sort:
+Vetor Ordenado!
+Tempo de execução: 11106ms
+=====================================================
+
+
+=====================================================
+Bubble Sort
+Vetor(100000) em ordem crescente criado!
+Vetor(100000) em ordem decrescente criado!
+
+Crescente(100000):
+Resultado Bubble Sort:
+Vetor Ordenado!
+Tempo de execução: 11ms
+
+Decrescente(100000):
+Resultado Bubble Sort:
+Vetor Ordenado!
+Tempo de execução: 1172087ms
+=====================================================
+
+=====================================================
+Bubble Sort
+Vetor(1000000) em ordem crescente criado!
+Vetor(1000000) em ordem decrescente criado!
+
+Crescente(1000000):
+Resultado Bubble Sort:
+Vetor Ordenado!
+Tempo de execução: 106ms
+
+Decrescente(1000000): +25200000ms
+
+=====================================================
+
+=====================================================
+Bubble Sort
+Vetor(10000000) em ordem crescente criado!
+Vetor(10000000) em ordem decrescente criado!
+
+Crescente(10000000):
+Resultado Bubble Sort:
+Vetor Ordenado!
+Tempo de execução: 941ms
+
+Decrescente(10000000): +25200000ms
+
+
+=====================================================
+Bubble Sort
+Vetor(100000000) em ordem crescente criado!
+Vetor(100000000) em ordem decrescente criado!
+
+Crescente(100000000):
+Resultado Bubble Sort:
+Vetor Ordenado!
+Tempo de execução: 9215ms
+
+Decrescente(10000000): +25200000ms
+=====================================================
